@@ -1,0 +1,6 @@
+data.txt
+ls.txt
+main.sh
+outpu
+pwd.txt
+read.txt
